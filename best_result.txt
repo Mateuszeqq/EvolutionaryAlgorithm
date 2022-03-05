@@ -1,0 +1,176 @@
+Demand_0_1: Gdansk-Bydgoszcz, value:195.0
+      T: 200 Path: P_6 Wavelength: 20
+Demand_0_2: Gdansk-Kolobrzeg, value:158.0
+      T: 200 Path: P_3 Wavelength: 90
+Demand_0_3: Gdansk-Katowice, value:174.0
+      T: 40 Path: P_2 Wavelength: 19
+      T: 40 Path: P_6 Wavelength: 82
+      T: 100 Path: P_2 Wavelength: 88
+Demand_0_4: Gdansk-Krakow, value:101.0
+      T: 40 Path: P_2 Wavelength: 52
+      T: 40 Path: P_2 Wavelength: 15
+      T: 40 Path: P_4 Wavelength: 34
+Demand_0_5: Gdansk-Bialystok, value:198.0
+      T: 200 Path: P_4 Wavelength: 23
+Demand_0_6: Gdansk-Lodz, value:158.0
+      T: 100 Path: P_3 Wavelength: 1
+      T: 40 Path: P_0 Wavelength: 89
+      T: 40 Path: P_5 Wavelength: 8
+Demand_0_7: Gdansk-Poznan, value:182.0
+      T: 200 Path: P_3 Wavelength: 42
+Demand_0_8: Gdansk-Rzeszow, value:154.0
+      T: 100 Path: P_5 Wavelength: 10
+      T: 40 Path: P_1 Wavelength: 40
+      T: 40 Path: P_0 Wavelength: 57
+Demand_0_9: Gdansk-Szczecin, value:175.0
+      T: 40 Path: P_5 Wavelength: 81
+      T: 200 Path: P_0 Wavelength: 24
+Demand_0_10: Gdansk-Warsaw, value:122.0
+      T: 40 Path: P_6 Wavelength: 45
+      T: 100 Path: P_6 Wavelength: 59
+Demand_0_11: Gdansk-Wroclaw, value:114.0
+      T: 40 Path: P_0 Wavelength: 89
+      T: 100 Path: P_1 Wavelength: 72
+Demand_1_2: Bydgoszcz-Kolobrzeg, value:179.0
+      T: 200 Path: P_3 Wavelength: 33
+Demand_1_3: Bydgoszcz-Katowice, value:117.0
+      T: 100 Path: P_5 Wavelength: 27
+      T: 40 Path: P_6 Wavelength: 78
+Demand_1_4: Bydgoszcz-Krakow, value:105.0
+      T: 40 Path: P_1 Wavelength: 58
+      T: 40 Path: P_0 Wavelength: 27
+      T: 40 Path: P_3 Wavelength: 94
+Demand_1_5: Bydgoszcz-Bialystok, value:159.0
+      T: 200 Path: P_4 Wavelength: 32
+Demand_1_6: Bydgoszcz-Lodz, value:198.0
+      T: 200 Path: P_0 Wavelength: 2
+Demand_1_7: Bydgoszcz-Poznan, value:189.0
+      T: 200 Path: P_5 Wavelength: 37
+Demand_1_8: Bydgoszcz-Rzeszow, value:166.0
+      T: 40 Path: P_0 Wavelength: 68
+      T: 100 Path: P_0 Wavelength: 56
+      T: 40 Path: P_5 Wavelength: 56
+Demand_1_9: Bydgoszcz-Szczecin, value:142.0
+      T: 100 Path: P_5 Wavelength: 88
+      T: 40 Path: P_3 Wavelength: 59
+      T: 40 Path: P_1 Wavelength: 2
+Demand_1_10: Bydgoszcz-Warsaw, value:137.0
+      T: 200 Path: P_1 Wavelength: 26
+Demand_1_11: Bydgoszcz-Wroclaw, value:163.0
+      T: 200 Path: P_5 Wavelength: 51
+Demand_2_3: Kolobrzeg-Katowice, value:131.0
+      T: 200 Path: P_0 Wavelength: 67
+Demand_2_4: Kolobrzeg-Krakow, value:159.0
+      T: 40 Path: P_2 Wavelength: 28
+      T: 40 Path: P_2 Wavelength: 30
+      T: 40 Path: P_3 Wavelength: 62
+      T: 40 Path: P_0 Wavelength: 87
+Demand_2_5: Kolobrzeg-Bialystok, value:164.0
+      T: 200 Path: P_3 Wavelength: 77
+Demand_2_6: Kolobrzeg-Lodz, value:128.0
+      T: 40 Path: P_6 Wavelength: 28
+      T: 100 Path: P_3 Wavelength: 85
+Demand_2_7: Kolobrzeg-Poznan, value:195.0
+      T: 200 Path: P_6 Wavelength: 90
+Demand_2_8: Kolobrzeg-Rzeszow, value:130.0
+      T: 200 Path: P_1 Wavelength: 76
+Demand_2_9: Kolobrzeg-Szczecin, value:105.0
+      T: 200 Path: P_4 Wavelength: 53
+Demand_2_10: Kolobrzeg-Warsaw, value:173.0
+      T: 40 Path: P_5 Wavelength: 38
+      T: 40 Path: P_3 Wavelength: 90
+      T: 100 Path: P_0 Wavelength: 43
+Demand_2_11: Kolobrzeg-Wroclaw, value:157.0
+      T: 200 Path: P_4 Wavelength: 65
+Demand_3_4: Katowice-Krakow, value:194.0
+      T: 200 Path: P_3 Wavelength: 58
+Demand_3_5: Katowice-Bialystok, value:125.0
+      T: 40 Path: P_1 Wavelength: 26
+      T: 100 Path: P_0 Wavelength: 9
+Demand_3_6: Katowice-Lodz, value:110.0
+      T: 40 Path: P_6 Wavelength: 70
+      T: 40 Path: P_3 Wavelength: 45
+      T: 40 Path: P_0 Wavelength: 45
+Demand_3_7: Katowice-Poznan, value:132.0
+      T: 40 Path: P_6 Wavelength: 34
+      T: 40 Path: P_2 Wavelength: 24
+      T: 100 Path: P_0 Wavelength: 41
+Demand_3_8: Katowice-Rzeszow, value:159.0
+      T: 200 Path: P_1 Wavelength: 67
+Demand_3_9: Katowice-Szczecin, value:109.0
+      T: 40 Path: P_5 Wavelength: 61
+      T: 100 Path: P_2 Wavelength: 2
+Demand_3_10: Katowice-Warsaw, value:126.0
+      T: 40 Path: P_0 Wavelength: 65
+      T: 100 Path: P_1 Wavelength: 43
+Demand_3_11: Katowice-Wroclaw, value:100.0
+      T: 100 Path: P_5 Wavelength: 65
+Demand_4_5: Krakow-Bialystok, value:124.0
+      T: 100 Path: P_5 Wavelength: 31
+      T: 40 Path: P_1 Wavelength: 84
+Demand_4_6: Krakow-Lodz, value:106.0
+      T: 40 Path: P_2 Wavelength: 6
+      T: 40 Path: P_3 Wavelength: 14
+      T: 40 Path: P_5 Wavelength: 84
+Demand_4_7: Krakow-Poznan, value:136.0
+      T: 40 Path: P_6 Wavelength: 1
+      T: 100 Path: P_1 Wavelength: 68
+Demand_4_8: Krakow-Rzeszow, value:144.0
+      T: 40 Path: P_4 Wavelength: 17
+      T: 200 Path: P_1 Wavelength: 33
+Demand_4_9: Krakow-Szczecin, value:168.0
+      T: 200 Path: P_6 Wavelength: 42
+Demand_4_10: Krakow-Warsaw, value:119.0
+      T: 100 Path: P_3 Wavelength: 47
+      T: 40 Path: P_4 Wavelength: 7
+Demand_4_11: Krakow-Wroclaw, value:127.0
+      T: 200 Path: P_3 Wavelength: 41
+Demand_5_6: Bialystok-Lodz, value:105.0
+      T: 40 Path: P_0 Wavelength: 30
+      T: 100 Path: P_5 Wavelength: 87
+Demand_5_7: Bialystok-Poznan, value:147.0
+      T: 200 Path: P_3 Wavelength: 33
+Demand_5_8: Bialystok-Rzeszow, value:140.0
+      T: 40 Path: P_5 Wavelength: 41
+      T: 100 Path: P_5 Wavelength: 28
+Demand_5_9: Bialystok-Szczecin, value:198.0
+      T: 200 Path: P_0 Wavelength: 94
+Demand_5_10: Bialystok-Warsaw, value:104.0
+      T: 40 Path: P_6 Wavelength: 31
+      T: 100 Path: P_4 Wavelength: 5
+Demand_5_11: Bialystok-Wroclaw, value:113.0
+      T: 40 Path: P_1 Wavelength: 17
+      T: 100 Path: P_3 Wavelength: 66
+Demand_6_7: Lodz-Poznan, value:169.0
+      T: 200 Path: P_4 Wavelength: 80
+Demand_6_8: Lodz-Rzeszow, value:187.0
+      T: 200 Path: P_5 Wavelength: 51
+Demand_6_9: Lodz-Szczecin, value:196.0
+      T: 200 Path: P_1 Wavelength: 31
+Demand_6_10: Lodz-Warsaw, value:193.0
+      T: 200 Path: P_6 Wavelength: 25
+Demand_6_11: Lodz-Wroclaw, value:151.0
+      T: 200 Path: P_6 Wavelength: 57
+Demand_7_8: Poznan-Rzeszow, value:106.0
+      T: 100 Path: P_1 Wavelength: 81
+      T: 40 Path: P_1 Wavelength: 20
+Demand_7_9: Poznan-Szczecin, value:125.0
+      T: 100 Path: P_3 Wavelength: 13
+      T: 40 Path: P_1 Wavelength: 50
+Demand_7_10: Poznan-Warsaw, value:194.0
+      T: 200 Path: P_0 Wavelength: 2
+Demand_7_11: Poznan-Wroclaw, value:194.0
+      T: 200 Path: P_6 Wavelength: 20
+Demand_8_9: Rzeszow-Szczecin, value:123.0
+      T: 40 Path: P_6 Wavelength: 87
+      T: 100 Path: P_4 Wavelength: 5
+Demand_8_10: Rzeszow-Warsaw, value:181.0
+      T: 200 Path: P_1 Wavelength: 66
+Demand_8_11: Rzeszow-Wroclaw, value:193.0
+      T: 200 Path: P_0 Wavelength: 50
+Demand_9_10: Szczecin-Warsaw, value:181.0
+      T: 200 Path: P_4 Wavelength: 0
+Demand_9_11: Szczecin-Wroclaw, value:195.0
+      T: 400 Path: P_4 Wavelength: 72
+Demand_10_11: Warsaw-Wroclaw, value:141.0
+      T: 200 Path: P_3 Wavelength: 42
